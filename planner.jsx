@@ -43,20 +43,20 @@ function App() {
 
   const [todos, setTodos] = React.useState([
     {
-      text: "Get Groceries",
-      date: "12:39:38 PM",
+      text: "Go to Gym",
+      date: "6:00:00 AM",
     },
     {
-      text: "Meal Prep",
-      date: "12:41:38 PM",
+      text: "Eat Breakfast",
+      date: "7:00:00 AM",
     },
     {
-      text: "Power Nap",
-      date: "12:45:38 PM",
+      text: "Eat Lunch",
+      date: "12:00:00 PM",
     },
     {
       text: "Learn React",
-      date: "04:45:38 PM",
+      date: "05:00:00 PM",
     },
   ]);
   return (
