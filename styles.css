@@ -1,0 +1,35 @@
+:root {
+  --primary-color: #2a2a2a; /* Dark Gray */
+  --secondary-color: #0f0f0f; /* Black */
+  --tertiary-color: #7f7f7f; /* Gray */
+  --text-color: #ffffff; /* White */
+  --background-color: #1a1a1a; /* Darker Gray */
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--secondary-color);
+}
+
+button {
+  background-color: var(--tertiary-color);
+  color: var(--text-color);
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
