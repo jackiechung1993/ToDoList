@@ -1,9 +1,9 @@
 :root {
-  --primary-color: #2a2a2a; /* Dark Gray */
+  --primary-color: #8b5252; /* Dark Gray */
   --secondary-color: #0f0f0f; /* Black */
   --tertiary-color: #7f7f7f; /* Gray */
   --text-color: #ffffff; /* White */
-  --background-color: #1a1a1a; /* Darker Gray */
+  --background-color: #2b3c74; /* Darker Gray */
 }
 
 body {
