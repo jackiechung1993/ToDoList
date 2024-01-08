@@ -9,7 +9,7 @@
 body {
   background-color: var(--background-color);
   color: var(--text-color);
-  font-family: 'Monoton', sans-serif;
+  font-family: 'Monoton';
 }
 
 h1, h2, h3, h4, h5, h6 {
