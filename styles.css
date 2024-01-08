@@ -2,7 +2,7 @@
   --primary-color: #8b5252;
   --secondary-color: #0f0f0f; 
   --tertiary-color: #7f7f7f; 
-  --text-color: #ffffff; 
+  --text-color: #3fa594; 
   --background-color: #2b3c74; 
 }
 
@@ -38,5 +38,6 @@ button {
   border: 1px solid black;
   padding: 5px;
   margin: 10px 0;
+  border-radius: 15px;
 }
 
